@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/yaxsomo/aerosentinel-argus/assets/71334330/143f75be-1a29-449a-a178-e01ef7d16065" alt="aerosentinel logo">
+  <img src="https://github.com/yaxsomo/aerosentinel-echo/assets/71334330/c916973c-5e57-4a94-9e30-817de14ff8e5" alt="aerosentinel logo">
 </p>
 
 #
 
-Welcome to Aerosentinel Argus Navigation Module firmware repository. Configured & developed using STM32CubeIDE and written in C.
+Welcome to Aerosentinel Echo Communication Module firmware repository. Configured & developed using STM32CubeIDE and written in C.
 
 ## Table of Contents
 1. [Introduction](#introduction)
