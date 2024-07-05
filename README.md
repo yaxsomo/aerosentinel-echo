@@ -18,7 +18,7 @@ Welcome to Aerosentinel Echo Communication Module firmware repository. Configure
 7. [License](#license)
 
 ## Introduction
-This firmware is designed to provide precise navigation and guidance capabilities for rocketry applications using the Aerosentinel Argus Navigation Module. It implements advanced algorithms and features to ensure optimal performance, safety, and reliability during launch, ascent, and recovery phases.
+This firmware is designed to handle communication tasks for rocketry applications using the Aerosentinel Echo Communication Module. It ensures reliable data transmission between the modules and the ground station, facilitating seamless communication.
 
 ## Getting Started
 
@@ -46,9 +46,9 @@ To make sure the build process has been successful, you can check the console fo
 
 
 ## Features
-- **Comprehensive Telemetry**: Provides real-time data on altitude, velocity, acceleration, positionning and environmental conditions.
-- **Autonomous Operation**: Automatically gathers sensors & GPS data, execute extended kalman filter fusion algorithms in cascade, and send the results via UART to the Flight Computer. 
-- **Reliability**: Built to withstand harsh temperatures, vibrations, and G-forces for robust performance.
+- **Reliable Communication**: Ensures robust data transmission between the modules and the ground station.
+- **Low Latency**: Designed to provide fast and efficient data exchange.
+- **Data Integrity**: Includes error checking and correction mechanisms to ensure the integrity of transmitted data.
 
 ## Contributing
 Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) when making contributions to this project.
