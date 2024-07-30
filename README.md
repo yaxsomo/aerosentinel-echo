@@ -43,8 +43,6 @@ To make sure the build process has been successful, you can check the console fo
 
 <img width="542" alt="Build_Result_STM32CubeIDE" src="https://github.com/yaxsomo/Aerosentinel-Mach-10/assets/71334330/89327704-94d9-4f79-b6a8-58f2b967f4f4">
 
-
-
 ## Features
 - **Reliable Communication**: Ensures robust data transmission between the modules and the ground station.
 - **Low Latency**: Designed to provide fast and efficient data exchange.
